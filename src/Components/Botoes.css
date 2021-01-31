@@ -1,0 +1,26 @@
+.Botoes{
+    margin: 10px;
+}
+.Botoes button.operador{
+    color: white;
+    background-color: crimson;
+
+}
+.Botoes button{
+    font-weight: 600;
+    width: 35px;
+    background-color: rgb(255, 255, 255);
+    padding: 10px 30px 10px 30px;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+    font-size: large;
+    border-radius: 8px;
+    box-shadow: 0 3px #666;
+    outline: none;
+    
+}
+.Botoes button:active {
+    box-shadow: 0 0 #666;
+    transform: translateY(2px);
+    outline: none;
+  }

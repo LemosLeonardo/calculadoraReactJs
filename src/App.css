@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Comfortaa Regular';
+  src: url('./fonts/Comfortaa-VariableFont_wght.ttf');
+}
+
 body {
   background: #141E30;
   /* fallback for old browsers */
@@ -5,4 +10,14 @@ body {
   /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #243B55, #141E30);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+a {
+  color: white ;
+  text-decoration: none;
+}
+
+.center{
+  margin: auto;
+  text-align: center;
 }

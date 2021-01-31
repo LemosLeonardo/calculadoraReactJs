@@ -1,0 +1,13 @@
+.Calculadora{
+    color: white;
+    margin-top: 20px;
+}
+.Calculadora h1{
+    font-family: 'Comfortaa Regular';
+    text-align: center;
+    font-weight: 200;
+}
+.Calculadora div#sobre{
+    text-align: center;
+    margin-top: 20px;
+}

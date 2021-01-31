@@ -1,0 +1,8 @@
+.Visor{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    text-align: right;
+}
