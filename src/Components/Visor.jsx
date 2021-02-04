@@ -1,15 +1,12 @@
-import React, { Component } from 'react';
+import React from 'react';
 import "./Visor.css"
 
 
-class Visor extends Component {
-    render(){
+function  Visor (props) {
         return (
             <div className="Visor">
-                <h2>Visor</h2>
+                <p>{props.numVisor}</p>
             </div>
         )
-    }
 }
-
 export default Visor

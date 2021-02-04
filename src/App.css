@@ -10,14 +10,25 @@ body {
   /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #243B55, #141E30);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  -webkit-touch-callout: none;
+  /* iPhone OS, Safari */
+  -webkit-user-select: none;
+  /* Chrome, Safari 3 */
+  -khtml-user-select: none;
+  /* Safari 2 */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* IE10+ */
+  user-select: none;
 }
 
 a {
-  color: white ;
+  color: white;
   text-decoration: none;
 }
 
-.center{
+.center {
   margin: auto;
   text-align: center;
 }
