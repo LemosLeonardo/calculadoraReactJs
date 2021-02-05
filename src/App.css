@@ -22,13 +22,3 @@ body {
   /* IE10+ */
   user-select: none;
 }
-
-a {
-  color: white;
-  text-decoration: none;
-}
-
-.center {
-  margin: auto;
-  text-align: center;
-}
