@@ -17,4 +17,4 @@ Para utilizar esta aplicação, você deverá seguir estes passos:
 
 #### Outas informações
 
-A lógica utilizada nesta aplicação foi elaborada pela <a href="https://github.com/cod3rcursos">Cod3r Cursos<a/> no curso React-Redux.
+A lógica utilizada nesta aplicação foi elaborada pela <a href="https://github.com/cod3rcursos">Cod3r Cursos</a> no curso React-Redux.
