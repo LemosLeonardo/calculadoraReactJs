@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido com React Js com a finalidade de efetuar cálculos básicos.
 
-<img src="https://github.com/LemosLeonardo/calculadoraReactJs/blob/main/src/images/calculadora%20simples.JPG?raw=true" width="600px" />
+<img src="https://github.com/LemosLeonardo/calculadoraReactJs/blob/main/src/images/calculadora_simples.JPG?raw=true" width="100%" />
 
 ## Como utilizar
 Para utilizar esta aplicação, você deverá seguir estes passos:
